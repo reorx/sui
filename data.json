@@ -4,20 +4,8 @@
           "category": "Infra",
           "links": [
               {
-                  "name": "Tower-Dogfood",
-                  "url": "https://tower.smartx.com"
-              },
-              {
-                  "name": "Tower-Dev-Dogfood",
-                  "url": "https://dev-tower.smartx.com"
-              },
-              {
                   "name": "Harbor",
                   "url": "https://registry.smtx.io/"
-              },
-              {
-                  "name": "vCenter-Dogfood",
-                  "url": "https://vc.smartx.com/"
               },
               {
                   "name": "Google-Drive",
@@ -62,6 +50,31 @@
               {
                   "name": "内部论坛",
                   "url": "http://answer.smartx.com/"
+              },
+              {
+                  "name": "Nutanix-Prism",
+                  "url": "https://192.168.18.20:9440/console/#"
+              }
+          ]
+      },
+      {
+          "category": "Dogfood",
+          "links": [
+              {
+                  "name": "Tower-Dogfood",
+                  "url": "https://tower.smartx.com"
+              },
+              {
+                  "name": "Tower-Dev-Dogfood",
+                  "url": "https://dev-tower.smartx.com"
+              },
+              {
+                  "name": "CloudTower-Commander",
+                  "url": "https://commander.smartx.com/"
+              },
+              {
+                  "name": "vCenter-Dogfood",
+                  "url": "https://vc.smartx.com/"
               }
           ]
       },
@@ -71,6 +84,10 @@
               {
                   "name": "文档中心",
                   "url": "http://docs.fev.smartx.com/"
+              },
+              {
+                  "name": "文档中心(旧版)",
+                  "url": "http://192.168.31.205:9000/docs/versions"
               },
               {
                   "name": "售后系统",
