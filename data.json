@@ -1,0 +1,158 @@
+{
+    "bookmarks": [
+        {
+            "category": "Infra",
+            "links": [
+                {
+                    "name": "Harbor",
+                    "url": "https://registry.smtx.io/"
+                },
+                {
+                    "name": "Google-Drive",
+                    "url": "https://drive.google.com/"
+                },
+                {
+                    "name": "Slack",
+                    "url": "https://smartx1.slack.com/"
+                },
+                {
+                    "name": "17.20 检索",
+                    "url": "http://192.168.31.231/"
+                },
+                {
+                    "name": "SMTXOS/SMTXZBS/SMTXELF RPM 检索",
+                    "url": "http://192.168.95.178:5555/"
+                },
+                {
+                    "name": "QE 自动化平台",
+                    "url": "http://auto.smartx.com"
+                },
+                {
+                    "name": "绿盟扫描",
+                    "url": "https://192.168.25.50/accounts/login/"
+                },
+                {
+                    "name": "Git-Gerrit",
+                    "url": "http://gerrit.smartx.com/"
+                },
+                {
+                    "name": "Git-Github",
+                    "url": "http://newgh.smartx.com/"
+                },
+                {
+                    "name": "Git-Gitlab",
+                    "url": "http://gitlab.smartx.com/"
+                },
+                {
+                    "name": "Jira",
+                    "url": "http://jira.smartx.com/"
+                },
+                {
+                    "name": "内部论坛",
+                    "url": "http://answer.smartx.com/"
+                },
+                {
+                    "name": "Nutanix-Prism",
+                    "url": "https://192.168.18.20:9440/console/#"
+                }
+            ]
+        },
+        {
+            "category": "Dogfood",
+            "links": [
+                {
+                    "name": "Tower-Dogfood",
+                    "url": "https://tower.smartx.com"
+                },
+                {
+                    "name": "Tower-Dev-Dogfood",
+                    "url": "https://dev-tower.smartx.com"
+                },
+                {
+                    "name": "CloudTower-Commander",
+                    "url": "https://commander.smartx.com/"
+                },
+                {
+                    "name": "vCenter-Dogfood",
+                    "url": "https://vc.smartx.com/"
+                }
+            ]
+        },
+        {
+            "category": "CI/CD",
+            "links": [
+                {
+                    "name": "Jenkins-SRE-CI",
+                    "url": "http://sreci.smartx.com/"
+                },
+                {
+                  "name": "Jenkins-ELF-CI",
+                  "url": "http://elfci.smartx.com/"
+                },
+                {
+                  "name": "Jenkins-ZBS-NewCI",
+                  "url": "http://newci.smartx.com/"
+                },
+                {
+                  "name": "Jenkins-QA-CI",
+                  "url": "http://qa.smartx.com/"
+                }
+            ]
+        },
+        {
+            "category": "IDT",
+            "links": [
+                {
+                    "name": "文档中心",
+                    "url": "http://docs.fev.smartx.com/"
+                },
+                {
+                    "name": "文档中心(旧版)",
+                    "url": "http://192.168.31.205:9000/docs/versions"
+                },
+                {
+                    "name": "售后系统",
+                    "url": "https://cs.smartx.com/cases"
+                },
+                {
+                    "name": "商务系统",
+                    "url": "http://cm.smartx.com"
+                }
+            ]
+        },
+        {
+            "category": "Design",
+            "links": [
+                {
+                    "name": "Figma",
+                    "url": "https://www.figma.com/"
+                },
+                {
+                    "name": "Figma 邀请链接",
+                    "url": "https://www.figma.com/team_invite/redeem/3sDzXRFfNYvJQaFSHCMCv2"
+                },
+                {
+                    "name": "Figma 使用指南",
+                    "url": "https://www.figma.com/slides/jhOdEbafLEVsStRkwsgA2O/Figma-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97-%F0%9F%A7%AD?t=IFEhlGYsUZHH9EWv-0"
+                },
+                {
+                    "name": "CloudTower UI 索引",
+                    "url": "https://docs.google.com/spreadsheets/d/16CrL5B9B1eUsxNkhU95-qcXczUAqJNy0OpXFz-mr0Z4/edit?gid=0#gid=0"
+                }
+            ]
+        },
+        {
+            "category": "CloudTower",
+            "links": [
+                {
+                    "name": "The CloudTower Book",
+                    "url": "http://192.168.31.205:8080/the-cloudtower-book/index.html"
+                },
+                {
+                    "name": "Dev Image",
+                    "url": "http://192.168.17.20/cloudtower/dev-images/"
+                }
+            ]
+        }
+    ]
+  }
