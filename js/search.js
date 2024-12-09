@@ -73,7 +73,7 @@ function updateKeyword(key) {
 
 function handleKeyPress(e) {
   var key = e.keyCode || e.which;
-  if (e.ctrlKey || e.metaKey) {
+  if (e.ctrlKey || e.metaKey || e.altKey) {
     // ignore key combination
     return
   }
